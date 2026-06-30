@@ -9,7 +9,7 @@ Evaluated on [TAU-bench](https://github.com/sierra-research/tau-bench), PolicyGu
 
 ## 🔜 Coming Soon
 
-Code, checkpoints, and datasets will be released soon.
+Code will be released soon.
 
 ## 📝 Citation
 
