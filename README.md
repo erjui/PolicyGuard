@@ -3,6 +3,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2606.29225-b31b1b.svg)](https://arxiv.org/abs/2606.29225)
 ![Status](https://img.shields.io/badge/status-coming%20soon-yellow)
 
+[[Project Page](https://policyguard.github.io/)] [[Paper](https://arxiv.org/abs/2606.29225)]
+
 Official implementation of **PolicyGuard**, a dialogue-grounded sub-agent verifier that enforces policy adherence in LLM agents by sharing the full conversation context and providing reasoning-based corrective feedback — rather than isolated argument-level blocking.
 
 Evaluated on [TAU-bench](https://github.com/sierra-research/tau-bench), PolicyGuard achieves up to **+12 pp** task success improvement across multiple LLM backbones while cutting false-positive blocks by roughly half compared to argument-level guards.
