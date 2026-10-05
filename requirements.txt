@@ -1,0 +1,4 @@
+-e ./external/tau2-bench
+litellm==1.82.6
+# tau2 imports audioop even for its text runner on Python 3.13.
+audioop-lts; python_version >= "3.13"

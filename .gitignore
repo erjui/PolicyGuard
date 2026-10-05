@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+external/
+data/
+outputs/
+/policies/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
